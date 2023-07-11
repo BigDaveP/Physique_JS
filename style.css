@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+#box{
+    width: 70%;
+    height: 700px;
+    margin: 0 auto;
+    border: white 3px solid;
+    border-radius: 10px;
+    margin-top: 5%;
+    display: flex;
+}
+
+#ball{
+    width: 70px;
+    height: 70px;
+    top: auto;
+    left: auto;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    top:100px;
+    left:100px; 
+}
